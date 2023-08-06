@@ -1,4 +1,4 @@
 # projects
 Includes different projects I have developed
 ## Contents
-* **[lottery game](Javi-py/turbo-pygame)**
+* **[lottery game](https://github.com/Javi-py/turbo-pygame/blob/master/loteriaconopciones.py)**
